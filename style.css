@@ -32,11 +32,11 @@ header nav ul li a.active {
   color: black;
 }
 header nav ul li.right {float: right;}
-
+/*
 @media screen and (max-width: 600px) {
   header nav ul li.right,
   header nav ul li {float: none;}
-}
+}*/
 /* Main Content */
 main {
   margin: 20px auto;
